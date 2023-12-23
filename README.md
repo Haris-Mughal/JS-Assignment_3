@@ -1,4 +1,4 @@
-## JS-Assignment_3
+# JS-Assignment_3
 
 
 <!DOCTYPE html>
