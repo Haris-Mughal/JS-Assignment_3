@@ -1,6 +1,5 @@
 # JS-Assignment_3
 
- 
 <!DOCTYPE html>
 <html lang="en">
   <head>
